@@ -2,6 +2,9 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "@mui/material": "^5.2.4",
     "@mui/styled-engine-sc": "^5.1.0",
